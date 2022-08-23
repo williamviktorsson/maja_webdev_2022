@@ -1,7 +1,8 @@
 Denna examinerande uppgift behandlar följande kriterier från kursen Webbutveckling 1:
 
 ```bash
-Eleven beskriver (översiktligt/utförligt/utförligt och nyanserat) webbens historia och dess påverkan på samhället och de grundläggande tekniker som webben bygger på.
+Eleven beskriver (översiktligt/utförligt/utförligt och nyanserat) webbens historia och
+dess påverkan på samhället och de grundläggande tekniker som webben bygger på.
 ```
 
 Du förväntas skriva en utredande text om 3-8 sidor(Times New Roman, 11pt, 1.15 radavstånd, 1 tum marginal) där målgruppen är teknikelever på gymnasiet som inte än kan följande koncept:
