@@ -1,6 +1,6 @@
 Denna examinerande uppgift behandlar följande kriterier från kursen Webbutveckling 1:
 
-```
+```bash
 Eleven beskriver (översiktligt/utförligt/utförligt och nyanserat) webbens historia och dess påverkan på samhället och de grundläggande tekniker som webben bygger på.
 ```
 
