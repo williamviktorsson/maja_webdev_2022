@@ -112,4 +112,4 @@ Nyckeln läggs till under settings > SSH and GPG keys på din användare på Git
 
 ### Övrigt
 
-Nu är du klar! Din nästa uppgift är teoriuppgift 1.  
+Nu är du klar! Din nästa uppgift är [teoriuppgift 1](/theory_assignment_1.md).  
