@@ -55,6 +55,8 @@ console.log(test)
 
 * Slå på GitHub Pages för webdevpub. Låt den ha branch main som source i `/(root)` och välj inget theme.
 
+* Du kommer nu åt hemsidan via https://USERNAME.github.io/webdevpub
+
 ### Git
 * Du kommer bli tvungen att ställa in så att din dator kan läsa och skriva till GitHub. För att göra detta behöver du generera en ssh-nyckel i PowerShell.
 
