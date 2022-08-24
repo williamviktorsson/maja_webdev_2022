@@ -37,8 +37,7 @@ console.log(test)
 * Skapa ett [GitHub](https://github.com/) konto med din @edu.umea.se mail.
 * Skapa ett privat repo som du kallar **webdevpriv**.
 * Skapa ett publikt repo som du kallar **webdevpub**.
-  * Slå på GitHub Pages för denna. Låt den ha branch master/main som source i `/(root)` och välj inget theme.
-  * Lägg till följande kod i en fil du kallar index.html:
+* Gör en ny fil som du kallar index.html i webdevpub som har följande kod
 
 ```html
 <!DOCTYPE html>
@@ -48,11 +47,13 @@ console.log(test)
   </head>
   <body>
     <div>
-        <p>Body</p>
+        <p>Hello World!</p>
     </div>
   </body>
 </html>
 ```
+
+* Slå på GitHub Pages för webdevpub. Låt den ha branch main som source i `/(root)` och välj inget theme.
 
 ### Git
 * Du kommer bli tvungen att ställa in så att din dator kan läsa och skriva till GitHub. För att göra detta behöver du generera en ssh-nyckel i PowerShell.
