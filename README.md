@@ -75,6 +75,8 @@ NrRFi9wrf+M7Q== schacon@mylaptop.local
 
 Nyckeln läggs till under settings > SSH and GPG keys på din användare på GitHub.
 
+Ladda sedan ned Git till din dator. (Ladda ned här!)[https://git-scm.com/downloads]!
+
 * Du behöver kunna följande kommandon:
   * **git config --global user.name "FIRST_NAME LAST_NAME"** för att kunna pusha.
   * **git config --global user.email "MY_NAME@example.com"** för att kuna pusha.
