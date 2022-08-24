@@ -37,7 +37,7 @@ console.log(test)
 * Skapa ett [GitHub](https://github.com/) konto med din @edu.umea.se mail.
 * Skapa ett privat repo som du kallar **webdevpriv**.
 * Skapa ett publikt repo som du kallar **webdevpub**.
-* Gör en ny fil som du kallar index.html i webdevpub som har följande kod
+* Gör en ny fil som du kallar index.html i **webdevpub**  som har följande kod (klicka på **creating a new file**)
 
 ```html
 <!DOCTYPE html>
