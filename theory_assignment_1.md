@@ -51,11 +51,6 @@ Som introduktion till en del av koncepten som täcks av uppgiften, bör ni förd
   * [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics).
   * [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics).
   * [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics).
-* Sätt bokmärken på följande tre sidor, du kommer använda alla.
-  * [HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-  * [CSS Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index).
-  * [JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference).
-* [Bokmärk denna sida](https://devdocs.io/) och läs välkomstbrevet. Du kan även ladda ned sidan som en Progressive Web App. Den innehåller referensmaterial på allt som tillhör webbutveckling.
 
 
 Utöver dessa kan det vara värt att fördjupa sig i följande länkar:
@@ -70,3 +65,11 @@ Notera att dessa länkar går till Wikipedia vilket är en källa som sällan go
 I datavetenskapliga sammanhang kan dock Wikipedia i regel betraktas som korrekt mycket tack vare [Wikipedias mycket strikta redigeringspolicy](https://en.wikipedia.org/wiki/Wikipedia:Editing_policy).
 
 Ni skall alltså se tillgången till Wikipedia som källa som ett undantag för denna uppgift och ni bör fortsätta betrakta Wikipedia som en osäker källa för övriga kurser.
+
+När ni läst klart kan ni göra följande i förberedelse för praktiskt arbete.
+
+* Sätt bokmärken på följande tre sidor, du kommer använda alla.
+  * [HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+  * [CSS Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index).
+  * [JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference).
+* [Bokmärk denna sida](https://devdocs.io/) och läs välkomstbrevet. Du kan även ladda ned sidan som en Progressive Web App. Den innehåller referensmaterial på allt som tillhör webbutveckling.
