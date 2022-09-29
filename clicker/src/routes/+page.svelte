@@ -22,7 +22,7 @@
   }
 
   button {
-    height: calc(50px + (0.15 * var(--multiplier)  * 50px));
+    height: calc(50px + (0.15 * var(--multiplier) * 50px));
     width: calc(50px + (0.15 * var(--multiplier) * 50px));
     background-color: red;
     border-radius: 100%;
@@ -41,7 +41,7 @@
 
   .shake {
     /* Start the shake animation and make the animation last for 0.5 seconds */
-    animation: shake 0.5s;
+    animation: shake calc(0.5s / (1 + (0.05 * var(--multiplier))));
 
     /* When the animation is finished, start again */
     animation-iteration-count: infinite;
