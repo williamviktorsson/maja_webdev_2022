@@ -20,6 +20,15 @@ Du förväntas skriva en utredande text om 3-8 sidor(Times New Roman, 11pt, 1.15
 * DNS
 * TCP/IP
 * HTTP
+* Dator
+* Brandvägg
+* Port
+* MAC-address
+* Switch
+* DHCP
+* Subnät
+* Intranät
+* Nätverkstopologi
 * Webbsida
 * Webbläsare
 * Webbserver
