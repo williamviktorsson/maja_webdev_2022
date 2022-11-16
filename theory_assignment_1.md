@@ -5,6 +5,12 @@ Eleven beskriver (översiktligt/utförligt/utförligt och nyanserat) webbens his
 dess påverkan på samhället och de grundläggande tekniker som webben bygger på.
 ```
 
+samt följande kriterier från kursen Dator- och Nätverksteknik.
+
+```bash
+Eleven beskriver (översiktligt/utförligt/utförligt och nyanserat) hur datorer och lokala nätverk är uppbyggda och fungerar samt hur driftsäkerhet uppnås. Dessutom redogör eleven (översiktligt/utförligt/utförligt och nyanserat) för sambandet mellan de olika delarna som ingår i nätverkets uppbyggnad
+```
+
 Du förväntas skriva en utredande text om 3-8 sidor(Times New Roman, 11pt, 1.15 radavstånd, 1 tum marginal) där målgruppen är teknikelever på gymnasiet som inte än kan följande koncept:
 
 * Klient
